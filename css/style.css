@@ -1,0 +1,208 @@
+.div1{
+    height: 50px;
+    width: 150px;
+    border: solid 1px gray;
+    animation-name: change1;
+    animation-duration: 3s;
+    position: absolute;
+    margin-top: 50px;
+    animation-fill-mode: forwards;
+    background-color: black;
+    left: 0;
+
+}
+@keyframes change1 {
+    0%{
+       left:0;
+       background-color: aqua;
+    }
+    100%{
+       left:1750px;
+        background-color: blanchedalmond;
+    }
+
+}
+
+
+.div2{
+    height: 50px;
+    width: 150px;
+    border: solid 1px gray;
+    animation-name: change;
+    animation-duration: 3s;
+    position: absolute;
+    margin-top: 150px;
+    animation-fill-mode: forwards;
+    background-color: black;
+    animation-delay:3S ;
+    left: 1750px;
+
+}
+@keyframes change {
+    0%{
+       left:1750px ;
+       background-color: aqua;
+    }
+    100%{
+       left:0px;
+        background-color: blanchedalmond;
+    }
+
+}
+
+
+.div3{
+    height: 50px;
+    width: 150px;
+    border: solid 1px gray;
+    animation-name: change2;
+    animation-duration: 3s;
+    position: absolute;
+    margin-top: 250px;
+    animation-fill-mode: forwards;
+    background-color: black;
+    animation-delay: 6s;
+
+}
+@keyframes change2 {
+    0%{
+       left:0 ;
+       background-color: aqua;
+    }
+    100%{
+       left:1750px;
+        background-color: blanchedalmond;
+    }
+
+}
+
+
+.div4{
+    height: 50px;
+    width: 150px;
+    border: solid 1px gray;
+    animation-name: change;
+    animation-duration: 3s;
+    position: absolute;
+    margin-top: 350px;
+    animation-fill-mode: forwards;
+    background-color: black;
+    left: 1750px;
+    animation-delay: 9s;
+}
+@keyframes change {
+    0%{
+        left: 1750px;
+    
+       background-color: aqua;
+    }
+    100%{
+       left:0px;
+        background-color: blanchedalmond;
+    }
+
+}
+
+
+.div5{
+    height: 50px;
+    width: 150px;
+    border: solid 1px gray;
+    animation-name: change2;
+    animation-duration: 3s;
+    position: absolute;
+    margin-top: 450px;
+    animation-fill-mode: forwards;
+    background-color: black;
+    animation-delay: 12s;
+
+}
+@keyframes change2 {
+    0%{
+       left:0 ;
+       background-color: aqua;
+    }
+    100%{
+       left:1750px;
+        background-color: blanchedalmond;
+    }
+
+}
+
+.div6{
+    height: 50px;
+    width: 150px;
+    border: solid 1px gray;
+    animation-name: change;
+    animation-duration: 3s;
+    position: absolute;
+    margin-top: 550px;
+    animation-fill-mode: forwards;
+    background-color: black;
+    left: 1750px;
+    animation-delay: 15s;
+}
+@keyframes change {
+    0%{
+        left: 1750px;
+    
+       background-color: aqua;
+    }
+    100%{
+       left:0px;
+        background-color: blanchedalmond;
+    }
+
+}
+
+
+.div7{
+    height: 50px;
+    width: 150px;
+    border: solid 1px gray;
+    animation-name: change2;
+    animation-duration: 3s;
+    position: absolute;
+    margin-top: 650px;
+    animation-fill-mode: forwards;
+    background-color: black;
+    animation-delay: 18s;
+
+}
+@keyframes change2 {
+    0%{
+       left:0 ;
+       background-color: aqua;
+    }
+    100%{
+       left:1750px;
+        background-color: blanchedalmond;
+    }
+
+}
+
+.div8{
+    height: 50px;
+    width: 150px;
+    border: solid 1px gray;
+    animation-name: change;
+    animation-duration: 3s;
+    position: absolute;
+    margin-top: 750px;
+    animation-fill-mode: forwards;
+    background-color: black;
+    left: 1750px;
+    animation-delay: 21s;
+}
+@keyframes change {
+    0%{
+        left: 1750px;
+    
+       background-color: aqua;
+    }
+    100%{
+       left:0px;
+        background-color: blanchedalmond;
+    }
+
+}
